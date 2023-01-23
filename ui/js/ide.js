@@ -20,7 +20,7 @@ function executeCode() {
 
     $.ajax({
 
-        url: "https://franck403.github.io/online-ide/ide/app/compiler.php",
+        url: "https://franck403.github.io/online-ide/app/compiler.php",
 
         method: "POST",
 
